@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "46d9d966-d995-4d69-94b4-427544989c1d": {
+      "ProjectGuid": "46d9d966-d995-4d69-94b4-427544989c1d",
+      "DisplayName": "Room Calculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
